@@ -1,5 +1,5 @@
 module.exports = [
-    { id: '20110395', name: 'Huỳnh Kỳ Sơn' },
-    { id: '20110016', name: 'Nguyễn Quốc Đức Tín' },
-    { id: '20110373', name: 'Lý Hồng Khanh' },
+    { id: '20145393', name: 'Phạm Vũ Đăng Khoa' },
+    { id: '20110031', name: 'Từ Hạo Thiên' },
+    { id: '20110427', name: 'Lâm Trần Tuấn Khải' },
 ];
